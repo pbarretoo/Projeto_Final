@@ -1,0 +1,8 @@
+Escolhi essa base de dados pois além de gostar muito de musica, sou guitarrista. Também acho muito interessante saber que tipo de musica
+e ouvida em certos países.
+
+No sql foi realizado "Joins"de 7 tabelas para unificar e apenas uma, algumas infos pertinentes ao intuito do 
+estudo. Utilizei a clausula Where para retornar os valores não nulos. Group by para por titulos pois tinham muitas musicas iguais com 
+diversos compositores.
+
+Nesse estudo quero apresentar quais tipos de musica (Gênero) são mais escutada em cada pais/cidade.
